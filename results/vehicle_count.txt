@@ -1,0 +1,302 @@
+Vehicle Counts Per Frame:
+frame_000000.PNG: {'car': 9}
+frame_000001.PNG: {'car': 8}
+frame_000002.PNG: {'car': 8}
+frame_000003.PNG: {'car': 8}
+frame_000004.PNG: {'car': 8}
+frame_000005.PNG: {'car': 8}
+frame_000006.PNG: {'car': 8}
+frame_000007.PNG: {'car': 8}
+frame_000008.PNG: {'car': 8}
+frame_000009.PNG: {'car': 8}
+frame_000010.PNG: {'car': 8}
+frame_000011.PNG: {'car': 8}
+frame_000012.PNG: {'car': 8}
+frame_000013.PNG: {'car': 8}
+frame_000014.PNG: {'car': 7}
+frame_000015.PNG: {'car': 9}
+frame_000016.PNG: {'car': 8}
+frame_000017.PNG: {'car': 8}
+frame_000018.PNG: {'car': 8}
+frame_000019.PNG: {'car': 8}
+frame_000020.PNG: {'car': 8}
+frame_000021.PNG: {'car': 8}
+frame_000022.PNG: {'car': 8}
+frame_000023.PNG: {'car': 8}
+frame_000024.PNG: {'car': 9}
+frame_000025.PNG: {'car': 8}
+frame_000026.PNG: {'car': 7}
+frame_000027.PNG: {'car': 7}
+frame_000028.PNG: {'car': 8}
+frame_000029.PNG: {'car': 8}
+frame_000030.PNG: {'car': 8}
+frame_000031.PNG: {'car': 7}
+frame_000032.PNG: {'car': 7}
+frame_000033.PNG: {'car': 7}
+frame_000034.PNG: {'car': 7}
+frame_000035.PNG: {'car': 8}
+frame_000036.PNG: {'car': 8}
+frame_000037.PNG: {'car': 8}
+frame_000038.PNG: {'car': 8}
+frame_000039.PNG: {'car': 8}
+frame_000040.PNG: {'car': 9}
+frame_000041.PNG: {'car': 9}
+frame_000042.PNG: {'car': 9}
+frame_000043.PNG: {'car': 9}
+frame_000044.PNG: {'car': 9, 'truck': 1}
+frame_000045.PNG: {'car': 8}
+frame_000046.PNG: {'car': 8}
+frame_000047.PNG: {'car': 9}
+frame_000048.PNG: {'car': 9}
+frame_000049.PNG: {'car': 8}
+frame_000050.PNG: {'car': 8}
+frame_000051.PNG: {'car': 8}
+frame_000052.PNG: {'car': 8}
+frame_000053.PNG: {'car': 8}
+frame_000054.PNG: {'car': 8}
+frame_000055.PNG: {'car': 8}
+frame_000056.PNG: {'car': 8}
+frame_000057.PNG: {'car': 8}
+frame_000058.PNG: {'car': 8}
+frame_000059.PNG: {'car': 7}
+frame_000060.PNG: {'car': 7}
+frame_000061.PNG: {'car': 7}
+frame_000062.PNG: {'car': 8}
+frame_000063.PNG: {'car': 8}
+frame_000064.PNG: {'car': 7}
+frame_000065.PNG: {'car': 8}
+frame_000066.PNG: {'car': 9}
+frame_000067.PNG: {'car': 8}
+frame_000068.PNG: {'car': 9}
+frame_000069.PNG: {'car': 8}
+frame_000070.PNG: {'car': 8}
+frame_000071.PNG: {'car': 9}
+frame_000072.PNG: {'car': 8}
+frame_000073.PNG: {'car': 8}
+frame_000074.PNG: {'car': 7}
+frame_000075.PNG: {'car': 8}
+frame_000076.PNG: {'car': 8}
+frame_000077.PNG: {'car': 7}
+frame_000078.PNG: {'car': 7}
+frame_000079.PNG: {'car': 7}
+frame_000080.PNG: {'car': 7}
+frame_000081.PNG: {'car': 8}
+frame_000082.PNG: {'car': 9}
+frame_000083.PNG: {'car': 9}
+frame_000084.PNG: {'car': 9}
+frame_000085.PNG: {'car': 9}
+frame_000086.PNG: {'car': 8}
+frame_000087.PNG: {'car': 8}
+frame_000088.PNG: {'car': 8}
+frame_000089.PNG: {'car': 9}
+frame_000090.PNG: {'car': 6, 'truck': 1}
+frame_000091.PNG: {'car': 8}
+frame_000092.PNG: {'car': 7}
+frame_000093.PNG: {'car': 7, 'truck': 1}
+frame_000094.PNG: {'car': 8}
+frame_000095.PNG: {'car': 7}
+frame_000096.PNG: {'car': 7}
+frame_000097.PNG: {'car': 7}
+frame_000098.PNG: {'car': 9}
+frame_000099.PNG: {'car': 8}
+frame_000100.PNG: {'car': 8}
+frame_000101.PNG: {'car': 8}
+frame_000102.PNG: {'car': 8}
+frame_000103.PNG: {'car': 8}
+frame_000104.PNG: {'car': 8}
+frame_000105.PNG: {'car': 9}
+frame_000106.PNG: {'car': 8}
+frame_000107.PNG: {'car': 10}
+frame_000108.PNG: {'car': 10}
+frame_000109.PNG: {'car': 11}
+frame_000110.PNG: {'car': 11}
+frame_000111.PNG: {'car': 10}
+frame_000112.PNG: {'car': 11}
+frame_000113.PNG: {'car': 11}
+frame_000114.PNG: {'car': 12}
+frame_000115.PNG: {'car': 11}
+frame_000116.PNG: {'car': 10}
+frame_000117.PNG: {'car': 10}
+frame_000118.PNG: {'car': 10}
+frame_000119.PNG: {'car': 9}
+frame_000120.PNG: {'car': 10}
+frame_000121.PNG: {'car': 10}
+frame_000122.PNG: {'car': 10}
+frame_000123.PNG: {'car': 10}
+frame_000124.PNG: {'car': 9}
+frame_000125.PNG: {'car': 9}
+frame_000126.PNG: {'car': 9}
+frame_000127.PNG: {'car': 9}
+frame_000128.PNG: {'car': 9}
+frame_000129.PNG: {'car': 8}
+frame_000130.PNG: {'car': 8}
+frame_000131.PNG: {'car': 8}
+frame_000132.PNG: {'car': 9}
+frame_000133.PNG: {'car': 8}
+frame_000134.PNG: {'car': 9}
+frame_000135.PNG: {'car': 9}
+frame_000136.PNG: {'car': 9}
+frame_000137.PNG: {'car': 9}
+frame_000138.PNG: {'car': 9}
+frame_000139.PNG: {'car': 9}
+frame_000140.PNG: {'car': 9}
+frame_000141.PNG: {'car': 9}
+frame_000142.PNG: {'car': 9}
+frame_000143.PNG: {'car': 9}
+frame_000144.PNG: {'car': 9}
+frame_000145.PNG: {'car': 9}
+frame_000146.PNG: {'car': 9}
+frame_000147.PNG: {'car': 9}
+frame_000148.PNG: {'car': 9}
+frame_000149.PNG: {'car': 9}
+frame_000150.PNG: {'car': 9}
+frame_000151.PNG: {'car': 10}
+frame_000152.PNG: {'car': 10}
+frame_000153.PNG: {'car': 9}
+frame_000154.PNG: {'car': 10}
+frame_000155.PNG: {'car': 10}
+frame_000156.PNG: {'car': 10}
+frame_000157.PNG: {'car': 12}
+frame_000158.PNG: {'car': 12}
+frame_000159.PNG: {'car': 10}
+frame_000160.PNG: {'car': 9}
+frame_000161.PNG: {'car': 9}
+frame_000162.PNG: {'car': 9}
+frame_000163.PNG: {'car': 9}
+frame_000164.PNG: {'car': 9}
+frame_000165.PNG: {'car': 9}
+frame_000166.PNG: {'car': 8}
+frame_000167.PNG: {'car': 8}
+frame_000168.PNG: {'car': 9}
+frame_000169.PNG: {'car': 9}
+frame_000170.PNG: {'car': 8}
+frame_000171.PNG: {'car': 9}
+frame_000172.PNG: {'car': 9}
+frame_000173.PNG: {'car': 9}
+frame_000174.PNG: {'car': 9}
+frame_000175.PNG: {'car': 7}
+frame_000176.PNG: {'car': 9}
+frame_000177.PNG: {'car': 9}
+frame_000178.PNG: {'car': 8}
+frame_000179.PNG: {'car': 8}
+frame_000180.PNG: {'car': 8}
+frame_000181.PNG: {'car': 8}
+frame_000182.PNG: {'car': 8, 'truck': 1}
+frame_000183.PNG: {'car': 7, 'truck': 1}
+frame_000184.PNG: {'car': 8, 'truck': 1}
+frame_000185.PNG: {'car': 9, 'truck': 1}
+frame_000186.PNG: {'car': 8, 'truck': 1}
+frame_000187.PNG: {'car': 8, 'truck': 1}
+frame_000188.PNG: {'car': 8, 'truck': 1}
+frame_000189.PNG: {'car': 9, 'truck': 1}
+frame_000190.PNG: {'car': 9, 'truck': 1}
+frame_000191.PNG: {'car': 8}
+frame_000192.PNG: {'car': 6}
+frame_000193.PNG: {'car': 6}
+frame_000194.PNG: {'car': 6, 'truck': 1}
+frame_000195.PNG: {'car': 7}
+frame_000196.PNG: {'car': 7}
+frame_000197.PNG: {'car': 6}
+frame_000198.PNG: {'car': 7, 'truck': 1}
+frame_000199.PNG: {'car': 7}
+frame_000200.PNG: {'car': 6}
+frame_000201.PNG: {'car': 7}
+frame_000202.PNG: {'car': 7}
+frame_000203.PNG: {'car': 8}
+frame_000204.PNG: {'car': 8}
+frame_000205.PNG: {'car': 8}
+frame_000206.PNG: {'car': 8, 'bus': 1}
+frame_000207.PNG: {'car': 8}
+frame_000208.PNG: {'car': 10}
+frame_000209.PNG: {'car': 11, 'truck': 1}
+frame_000210.PNG: {'car': 10}
+frame_000211.PNG: {'car': 11}
+frame_000212.PNG: {'car': 8}
+frame_000213.PNG: {'car': 10}
+frame_000214.PNG: {'car': 9}
+frame_000215.PNG: {'car': 9}
+frame_000216.PNG: {'car': 9}
+frame_000217.PNG: {'car': 10}
+frame_000218.PNG: {'car': 10, 'truck': 1}
+frame_000219.PNG: {'car': 10}
+frame_000220.PNG: {'car': 11}
+frame_000221.PNG: {'car': 11}
+frame_000222.PNG: {'car': 11, 'truck': 1}
+frame_000223.PNG: {'car': 12}
+frame_000224.PNG: {'car': 12}
+frame_000225.PNG: {'car': 12}
+frame_000226.PNG: {'car': 13}
+frame_000227.PNG: {'car': 13}
+frame_000228.PNG: {'car': 13}
+frame_000229.PNG: {'car': 13}
+frame_000230.PNG: {'car': 13}
+frame_000231.PNG: {'car': 14}
+frame_000232.PNG: {'car': 13}
+frame_000233.PNG: {'car': 13}
+frame_000234.PNG: {'car': 11}
+frame_000235.PNG: {'car': 12}
+frame_000236.PNG: {'car': 10, 'truck': 2}
+frame_000237.PNG: {'car': 12}
+frame_000238.PNG: {'car': 11, 'truck': 1}
+frame_000239.PNG: {'car': 12, 'truck': 1}
+frame_000240.PNG: {'car': 12, 'truck': 1}
+frame_000241.PNG: {'car': 11, 'bus': 1, 'truck': 1}
+frame_000242.PNG: {'car': 12, 'bus': 1}
+frame_000243.PNG: {'car': 11, 'truck': 1}
+frame_000244.PNG: {'car': 11, 'bus': 1}
+frame_000245.PNG: {'car': 12, 'bus': 1}
+frame_000246.PNG: {'car': 12, 'truck': 1}
+frame_000247.PNG: {'car': 12, 'truck': 1}
+frame_000248.PNG: {'car': 12, 'truck': 1}
+frame_000249.PNG: {'car': 12, 'bus': 1}
+frame_000250.PNG: {'car': 11, 'truck': 1}
+frame_000251.PNG: {'car': 11, 'truck': 1}
+frame_000252.PNG: {'car': 10, 'truck': 2, 'bus': 1}
+frame_000253.PNG: {'car': 12, 'bus': 1}
+frame_000254.PNG: {'car': 10, 'truck': 2}
+frame_000255.PNG: {'car': 11, 'truck': 1, 'bus': 1}
+frame_000256.PNG: {'car': 10, 'truck': 2}
+frame_000257.PNG: {'car': 10, 'truck': 2, 'bus': 1}
+frame_000258.PNG: {'car': 9, 'truck': 2}
+frame_000259.PNG: {'car': 9, 'truck': 2}
+frame_000260.PNG: {'car': 11, 'truck': 1}
+frame_000261.PNG: {'car': 10, 'truck': 1}
+frame_000262.PNG: {'car': 10, 'truck': 1}
+frame_000263.PNG: {'car': 10, 'truck': 1}
+frame_000264.PNG: {'car': 11, 'truck': 1}
+frame_000265.PNG: {'car': 11, 'truck': 1}
+frame_000266.PNG: {'car': 11, 'truck': 1}
+frame_000267.PNG: {'car': 9, 'truck': 1}
+frame_000268.PNG: {'car': 10, 'truck': 1, 'bus': 1}
+frame_000269.PNG: {'car': 9, 'truck': 1}
+frame_000270.PNG: {'car': 9, 'truck': 1}
+frame_000271.PNG: {'car': 9, 'truck': 1}
+frame_000272.PNG: {'car': 10, 'truck': 1}
+frame_000273.PNG: {'car': 10, 'truck': 1}
+frame_000274.PNG: {'car': 9, 'truck': 1}
+frame_000275.PNG: {'car': 8, 'truck': 1}
+frame_000276.PNG: {'car': 11, 'truck': 1}
+frame_000277.PNG: {'car': 10, 'truck': 1}
+frame_000278.PNG: {'car': 9, 'truck': 1}
+frame_000279.PNG: {'car': 11, 'truck': 1}
+frame_000280.PNG: {'car': 11, 'truck': 1}
+frame_000281.PNG: {'car': 11, 'truck': 1}
+frame_000282.PNG: {'car': 9, 'truck': 1}
+frame_000283.PNG: {'car': 9, 'truck': 1}
+frame_000284.PNG: {'truck': 1, 'car': 10}
+frame_000285.PNG: {'truck': 1, 'car': 10}
+frame_000286.PNG: {'car': 11, 'truck': 1}
+frame_000287.PNG: {'truck': 1, 'car': 11}
+frame_000288.PNG: {'truck': 1, 'car': 10}
+frame_000289.PNG: {'truck': 1, 'car': 10}
+frame_000290.PNG: {'truck': 1, 'car': 9}
+frame_000291.PNG: {'truck': 1, 'car': 9}
+frame_000292.PNG: {'truck': 1, 'car': 9}
+frame_000293.PNG: {'car': 9, 'truck': 1}
+frame_000294.PNG: {'truck': 1, 'car': 9}
+frame_000295.PNG: {'car': 9, 'truck': 1}
+frame_000296.PNG: {'car': 9, 'truck': 1}
+frame_000297.PNG: {'car': 9, 'truck': 1}
+frame_000298.PNG: {'car': 9, 'truck': 1}
+frame_000299.PNG: {'car': 9, 'truck': 1}
+frame_000300.PNG: {'truck': 1, 'car': 9}

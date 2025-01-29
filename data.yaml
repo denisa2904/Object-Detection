@@ -1,0 +1,7 @@
+path: D:/Master/An1_sem1/ComputerVision/lab6/train_dataset
+train: train/images
+val: test/images
+
+nc: 2
+names: ['cars', 'truck']
+
